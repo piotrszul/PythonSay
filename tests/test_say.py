@@ -7,7 +7,6 @@ from say import *
 # Test greetings
 #
 
-@pytest.mark.skip(reason="Not implemented")
 def test_say_hello():
     assert "hello" == say_hello()
  

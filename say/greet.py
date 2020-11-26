@@ -4,7 +4,7 @@
 
 
 def say_hello():
-    pass
+   return "hello" 
 
 def say_good_day():
     pass
